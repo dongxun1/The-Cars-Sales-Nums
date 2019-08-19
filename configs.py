@@ -16,7 +16,3 @@ MYSQL_PORT = 3306
 MYSQL_USERNAME = 'root'
 # 数据库名称
 MYSQL_DATABASE = 'spiders'
-
-
-
-
